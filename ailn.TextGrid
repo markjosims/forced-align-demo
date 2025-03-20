@@ -1,0 +1,140 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.6421768707483 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "phone" 
+        xmin = 0 
+        xmax = 8.6421768707483 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.9360853129157678 
+            text = "" 
+        intervals [2]:
+            xmin = 1.9360853129157678 
+            xmax = 2.017376504535767 
+            text = "l" 
+        intervals [3]:
+            xmin = 2.017376504535767 
+            xmax = 2.2489020502889296 
+            text = "a" 
+        intervals [4]:
+            xmin = 2.2489020502889296 
+            xmax = 2.408397426252219 
+            text = "n" 
+        intervals [5]:
+            xmin = 2.408397426252219 
+            xmax = 3.0122857432696506 
+            text = "" 
+        intervals [6]:
+            xmin = 3.0122857432696506 
+            xmax = 3.1069539664220547 
+            text = "l" 
+        intervals [7]:
+            xmin = 3.1069539664220547 
+            xmax = 3.3786106067724315 
+            text = "i" 
+        intervals [8]:
+            xmin = 3.3786106067724315 
+            xmax = 3.4907718711595193 
+            text = "n" 
+        intervals [9]:
+            xmin = 3.4907718711595193 
+            xmax = 4.19523464577372 
+            text = "" 
+        intervals [10]:
+            xmin = 4.19523464577372 
+            xmax = 4.32694695624663 
+            text = "n" 
+        intervals [11]:
+            xmin = 4.32694695624663 
+            xmax = 4.5059933782957415 
+            text = "i" 
+        intervals [12]:
+            xmin = 4.5059933782957415 
+            xmax = 4.716938875537512 
+            text = "l" 
+        intervals [13]:
+            xmin = 4.716938875537512 
+            xmax = 5.330090431122473 
+            text = "" 
+        intervals [14]:
+            xmin = 5.330090431122473 
+            xmax = 5.484440794957915 
+            text = "n" 
+        intervals [15]:
+            xmin = 5.484440794957915 
+            xmax = 5.692299284922976 
+            text = "i" 
+        intervals [16]:
+            xmin = 5.692299284922976 
+            xmax = 6.445388520173199 
+            text = "" 
+        intervals [17]:
+            xmin = 6.445388520173199 
+            xmax = 6.541085745751173 
+            text = "n" 
+        intervals [18]:
+            xmin = 6.541085745751173 
+            xmax = 6.790104332739018 
+            text = "a" 
+        intervals [19]:
+            xmin = 6.790104332739018 
+            xmax = 8.6421768707483 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 8.6421768707483 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.9360853129157678 
+            text = "" 
+        intervals [2]:
+            xmin = 1.9360853129157678 
+            xmax = 2.408397426252219 
+            text = "lawn" 
+        intervals [3]:
+            xmin = 2.408397426252219 
+            xmax = 3.0122857432696506 
+            text = "" 
+        intervals [4]:
+            xmin = 3.0122857432696506 
+            xmax = 3.4907718711595193 
+            text = "lean" 
+        intervals [5]:
+            xmin = 3.4907718711595193 
+            xmax = 4.19523464577372 
+            text = "" 
+        intervals [6]:
+            xmin = 4.19523464577372 
+            xmax = 4.716938875537512 
+            text = "kneel" 
+        intervals [7]:
+            xmin = 4.716938875537512 
+            xmax = 5.330090431122473 
+            text = "" 
+        intervals [8]:
+            xmin = 5.330090431122473 
+            xmax = 5.692299284922976 
+            text = "knee" 
+        intervals [9]:
+            xmin = 5.692299284922976 
+            xmax = 6.445388520173199 
+            text = "" 
+        intervals [10]:
+            xmin = 6.445388520173199 
+            xmax = 6.790104332739018 
+            text = "gnaw" 
+        intervals [11]:
+            xmin = 6.790104332739018 
+            xmax = 8.6421768707483 
+            text = "" 
