@@ -1,0 +1,10 @@
+pomegranate
+networkx
+torch
+matplotlib
+numpy<2
+pandas
+seaborn
+scipy
+parselmouth
+tgt
